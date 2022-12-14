@@ -1,0 +1,15 @@
+D:\Stady\Language C#\Lesson_1\Example_1\bin\Debug\net6.0\Example_1.exe
+D:\Stady\Language C#\Lesson_1\Example_1\bin\Debug\net6.0\Example_1.deps.json
+D:\Stady\Language C#\Lesson_1\Example_1\bin\Debug\net6.0\Example_1.runtimeconfig.json
+D:\Stady\Language C#\Lesson_1\Example_1\bin\Debug\net6.0\Example_1.dll
+D:\Stady\Language C#\Lesson_1\Example_1\bin\Debug\net6.0\Example_1.pdb
+D:\Stady\Language C#\Lesson_1\Example_1\obj\Debug\net6.0\Example_1.csproj.AssemblyReference.cache
+D:\Stady\Language C#\Lesson_1\Example_1\obj\Debug\net6.0\Example_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stady\Language C#\Lesson_1\Example_1\obj\Debug\net6.0\Example_1.AssemblyInfoInputs.cache
+D:\Stady\Language C#\Lesson_1\Example_1\obj\Debug\net6.0\Example_1.AssemblyInfo.cs
+D:\Stady\Language C#\Lesson_1\Example_1\obj\Debug\net6.0\Example_1.csproj.CoreCompileInputs.cache
+D:\Stady\Language C#\Lesson_1\Example_1\obj\Debug\net6.0\Example_1.dll
+D:\Stady\Language C#\Lesson_1\Example_1\obj\Debug\net6.0\refint\Example_1.dll
+D:\Stady\Language C#\Lesson_1\Example_1\obj\Debug\net6.0\Example_1.pdb
+D:\Stady\Language C#\Lesson_1\Example_1\obj\Debug\net6.0\Example_1.genruntimeconfig.cache
+D:\Stady\Language C#\Lesson_1\Example_1\obj\Debug\net6.0\ref\Example_1.dll
